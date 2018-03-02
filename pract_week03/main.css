@@ -2,7 +2,7 @@
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Bold', Arial, sans-serif;
     font-size: 150%;
-
+	text-decoration-line: underline;
     padding-top: 1%;
 }
 
@@ -188,4 +188,19 @@ html, body {
 	margin: 0 auto;
 	min-width: 100%;
 	height: 100%;
+}
+
+.foot_container{
+	width:30%;  
+    position: relative;
+    padding-left: 40%;
+}
+/**
+.footer{
+
+}
+**/
+.p_footer{
+	text-decoration-line: overline;
+	font-size: 1%;
 }
