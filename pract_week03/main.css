@@ -193,7 +193,8 @@ html, body {
 .foot_container{
 	width:30%;  
     position: relative;
-    padding-left: 40%;
+	padding-left: 40%;
+	border-top: gray;
 }
 /**
 .footer{
@@ -201,6 +202,8 @@ html, body {
 }
 **/
 .p_footer{
+	/**
 	text-decoration-line: overline;
+	**/
 	font-size: 1%;
 }
