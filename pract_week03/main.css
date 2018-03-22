@@ -231,7 +231,7 @@ body {
 	background:#FFF;
 }
 
-.container {
+.container2 {
 	max-width:400px;
 	width:100%;
 	margin:0 auto;
@@ -361,4 +361,14 @@ nav.option2 {
 	border-bottom: 10px solid #ffffff;
 	border-top: 10px solid #ffffff;
   }
-  
+.container-about{
+    margin: auto;
+    width: 40%;
+	padding-left: 5%;
+	float: left;
+}
+
+.paragraaf-about{
+    text-align: justify;
+    line-height: 140%;
+}
